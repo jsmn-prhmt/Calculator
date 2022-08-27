@@ -1,4 +1,4 @@
 # Calculator
- Simple calculator app using HTML, CSS and JavaScript 
+A simple calculator app using HTML, CSS and JavaScript 
  
 Live at https://calculator-javascript-app-project.netlify.app
